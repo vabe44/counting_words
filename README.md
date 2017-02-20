@@ -4,11 +4,17 @@ Write a program that asks the user to enter a sentence. Then, this program gener
 Here are two sample runs:
 
 Sample 1:
+
 Enter a sentence: Peter Piper picked a peck of pickled peppers.
+
 Enter a number between 0 and 1: 0.3
+
 Number of words starting with "p" is: 6
 
 Sample 2:
+
 Enter a sentence: My pet’s appetite has reduced.
+
 Enter a number between 0 and 1: 0.7
+
 Number of words containing the string "pet" is: 2
